@@ -6,13 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 2 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [math](#math) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -21,6 +22,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
 
 ---
 
