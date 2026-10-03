@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 7 |
+| 11 | 7 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [implementation](#implementation) (5)
 - [math](#math) (3)
 - [sortings](#sortings) (1)
-- [strings](#strings) (5)
+- [strings](#strings) (6)
 
 ---
 
@@ -73,6 +73,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/96/A%20-%20Football/solution.txt) |
+| 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/208/A%20-%20Dubstep/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
