@@ -1,0 +1,14 @@
+n, m = map(int, input().split())
+prices = list(map(int, input().split()))
+ 
+prices.sort()
+ 
+total = 0
+ 
+for i in range(m):
+    if prices[i] < 0:
+        total += -prices[i]
+    else:
+        break
+ 
+print(total)
