@@ -1,0 +1,12 @@
+s, m = map(int, input().split())
+p = list(map(int, input().split()))
+ 
+p.sort()
+ 
+answer = float('inf')
+ 
+for i in range(m - s + 1):
+    difference = p[i + s - 1] - p[i]
+    answer = min(answer, difference)
+ 
+print(answer)
