@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 7 |
+| 15 | 7 |
 
 ---
 
@@ -14,8 +14,8 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (5)
-- [implementation](#implementation) (5)
+- [greedy](#greedy) (6)
+- [implementation](#implementation) (6)
 - [math](#math) (3)
 - [sortings](#sortings) (3)
 - [strings](#strings) (6)
@@ -43,6 +43,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/160/A%20-%20Twins/solution.txt) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/231/A%20-%20Team/solution.txt) |
+| 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/337/A%20-%20Puzzles/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
 ### implementation
@@ -54,6 +55,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/344/A%20-%20Magnets/solution.txt) |
 
 ### math
 
