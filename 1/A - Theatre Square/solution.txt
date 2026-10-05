@@ -1,0 +1,6 @@
+n, m, a = map(int, input().split())
+
+x = (n + a - 1) // a  # add maximum no. and subtract 1 because for floor division give correct output 
+y = (m + a - 1) // a
+
+print(x * y)
