@@ -1,0 +1,12 @@
+n = int(input())
+step = 0
+ 
+for i in range(n):
+    a, b = list(map(int, input().split()))
+ 
+    if a % b != 0:
+        step = b - (a % b)
+    else:
+        step = 0
+ 
+    print(step)
