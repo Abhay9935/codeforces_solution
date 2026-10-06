@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 7 |
+| 19 | 7 |
 
 ---
 
@@ -15,8 +15,8 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (9)
-- [math](#math) (3)
+- [implementation](#implementation) (10)
+- [math](#math) (4)
 - [sortings](#sortings) (3)
 - [strings](#strings) (8)
 
@@ -50,6 +50,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/69/A%20-%20Young%20Physicist/solution.txt) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/96/A%20-%20Football/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
@@ -65,6 +66,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
+| 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/69/A%20-%20Young%20Physicist/solution.txt) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/318/A%20-%20Even%20Odds/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
 
