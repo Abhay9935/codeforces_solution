@@ -1,0 +1,7 @@
+t = int(input())
+sum = 0
+for i in range(t):
+    case = str(input())
+    sum += int(case[0]) + int(case[1])
+    print(sum)
+    sum = 0
