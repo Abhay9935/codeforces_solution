@@ -1,0 +1,6 @@
+original = input()
+reverse = input()
+if original == reverse[::-1]:
+    print("YES")
+else:
+    print("NO")
