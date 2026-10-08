@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 8 |
+| 26 | 8 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (14)
+- [implementation](#implementation) (15)
 - [math](#math) (6)
-- [sortings](#sortings) (3)
+- [sortings](#sortings) (4)
 - [strings](#strings) (8)
 
 ---
@@ -68,6 +68,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1669/A%20-%20Division%3F/solution.txt) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1676/A%20-%20Lucky%3F/solution.txt) |
+| 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.txt) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.txt) |
@@ -90,6 +91,7 @@
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/34/B%20-%20Sale/solution.txt) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/160/A%20-%20Twins/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
 
 ### strings
 
