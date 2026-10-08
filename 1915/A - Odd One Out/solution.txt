@@ -1,0 +1,9 @@
+t = int(input())
+for i in range(t):
+    a, b, c = list(map(int, input().split()))
+    if a == b and a != c and b != c:
+        print(c)
+    elif b == c and a != c and b != a:
+            print(a)
+    elif a == c and a != b and b != c:
+            print(b)
