@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 8 |
+| 28 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (15)
+- [implementation](#implementation) (16)
 - [math](#math) (7)
 - [sortings](#sortings) (4)
 - [strings](#strings) (8)
@@ -69,6 +69,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1669/A%20-%20Division%3F/solution.txt) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1676/A%20-%20Lucky%3F/solution.txt) |
+| 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1692/A%20-%20Marathon/solution.txt) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.txt) |
