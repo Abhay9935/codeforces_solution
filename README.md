@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 8 |
+| 29 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (16)
+- [implementation](#implementation) (17)
 - [math](#math) (7)
 - [sortings](#sortings) (4)
 - [strings](#strings) (8)
@@ -73,6 +73,7 @@
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.txt) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1829/B%20-%20Blank%20Space/solution.txt) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.txt) |
 
 ### math
