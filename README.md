@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 8 |
+| 27 | 8 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (15)
-- [math](#math) (6)
+- [math](#math) (7)
 - [sortings](#sortings) (4)
 - [strings](#strings) (8)
 
@@ -52,6 +52,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/337/A%20-%20Puzzles/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.txt) |
 
 ### implementation
 
@@ -83,6 +84,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
+| 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.txt) |
 
 ### sortings
 
