@@ -1,0 +1,9 @@
+n = int(input())
+avail_room = 0
+for i in range(n):
+    p, q = list(map(int, input().split()))
+    if p == q:
+        avail_room += 0
+    elif q > (p + 1):
+        avail_room += 1
+print(avail_room)
