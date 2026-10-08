@@ -6,16 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 7 |
+| 25 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (6)
 - [sortings](#sortings) (3)
 - [strings](#strings) (8)
@@ -27,6 +28,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.txt) |
 
 ### brute force
 
@@ -63,6 +70,7 @@
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1676/A%20-%20Lucky%3F/solution.txt) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.txt) |
+| 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.txt) |
 
 ### math
 
