@@ -1,0 +1,7 @@
+t = int(input())
+wealths = list(map(int, input().split()))
+max_wealth = max(wealths)
+sum = 0
+for i in range(len(wealths)):
+    sum += (max_wealth - wealths[i])
+print(sum) 
