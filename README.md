@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 10 |
+| 33 | 10 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [brute force](#brute-force) (2)
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (20)
+- [implementation](#implementation) (21)
 - [math](#math) (7)
 - [sortings](#sortings) (5)
 - [strings](#strings) (8)
@@ -74,6 +74,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/344/A%20-%20Magnets/solution.txt) |
+| 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.txt) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1669/A%20-%20Division%3F/solution.txt) |
