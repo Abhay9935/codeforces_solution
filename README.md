@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 10 |
+| 32 | 10 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [brute force](#brute-force) (2)
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (7)
-- [implementation](#implementation) (19)
+- [implementation](#implementation) (20)
 - [math](#math) (7)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (5)
 - [strings](#strings) (8)
 - [two pointers](#two-pointers) (1)
 
@@ -85,6 +85,7 @@
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.txt) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1829/B%20-%20Blank%20Space/solution.txt) |
 | 1915A | [Odd One Out](https://codeforces.com/contest/1915/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1915/A%20-%20Odd%20One%20Out/solution.txt) |
+| 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.txt) |
 
 ### math
 
@@ -106,6 +107,7 @@
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/160/A%20-%20Twins/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
+| 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.txt) |
 
 ### strings
 
