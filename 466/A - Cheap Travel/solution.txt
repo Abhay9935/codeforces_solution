@@ -1,0 +1,8 @@
+n, m, a, b = map(int, input().split())
+digit = n // m
+remainder = n % m
+if b < m * a:
+    price = digit * b + min(remainder * a, b)
+else:
+    price = n * a
+print(price)
