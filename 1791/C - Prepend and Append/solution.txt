@@ -1,0 +1,13 @@
+t = int(input())
+for i in range(t):
+    n = int(input())
+    s = input()
+    short_len = n
+    while len(s) >= 2:
+        if s[0] != s[-1]:
+            short_len -= 2
+            s = s[1:-1]
+        else:
+            break
+    print(short_len)
+    
