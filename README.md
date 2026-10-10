@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 39 | 11 |
+| 40 | 11 |
 
 ---
 
@@ -18,10 +18,10 @@
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (25)
+- [implementation](#implementation) (26)
 - [math](#math) (9)
-- [sortings](#sortings) (5)
-- [strings](#strings) (9)
+- [sortings](#sortings) (6)
+- [strings](#strings) (10)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -79,6 +79,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/69/A%20-%20Young%20Physicist/solution.txt) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/96/A%20-%20Football/solution.txt) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/133/A%20-%20HQ9%2B/solution.txt) |
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
@@ -120,6 +121,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 34B | [Sale](https://codeforces.com/contest/34/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/34/B%20-%20Sale/solution.txt) |
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.txt) |
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/160/A%20-%20Twins/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
@@ -131,6 +133,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/96/A%20-%20Football/solution.txt) |
+| 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.txt) |
 | 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/208/A%20-%20Dubstep/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
