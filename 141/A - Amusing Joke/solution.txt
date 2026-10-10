@@ -1,0 +1,10 @@
+guest = input()
+host = input()
+pile = input()
+ 
+combined = guest + host
+ 
+if sorted(combined) == sorted(pile):
+    print("YES")
+else:
+    print("NO")
