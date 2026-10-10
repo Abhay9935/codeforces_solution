@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 10 |
+| 39 | 11 |
 
 ---
 
@@ -15,9 +15,10 @@
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
+- [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
-- [greedy](#greedy) (8)
-- [implementation](#implementation) (24)
+- [greedy](#greedy) (9)
+- [implementation](#implementation) (25)
 - [math](#math) (9)
 - [sortings](#sortings) (5)
 - [strings](#strings) (9)
@@ -44,6 +45,12 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.txt) |
+
 ### expression parsing
 
 | # | Problem | Difficulty | Solution |
@@ -61,6 +68,7 @@
 | 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/337/A%20-%20Puzzles/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.txt) |
+| 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.txt) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.txt) |
 
 ### implementation
@@ -70,6 +78,7 @@
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/32/B%20-%20Borze/solution.txt) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/69/A%20-%20Young%20Physicist/solution.txt) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/96/A%20-%20Football/solution.txt) |
+| 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/133/A%20-%20HQ9%2B/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
