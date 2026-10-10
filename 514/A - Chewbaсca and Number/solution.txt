@@ -1,0 +1,14 @@
+n = int(input())
+num = str(n)[::-1]
+num1 = int(num)
+number = ""
+for i in range(len(str(n))):
+    digit = num1 % 10
+    if i == 0 and digit == 9:
+        number += str(9)
+    elif digit <= 4:
+        number += str(digit)
+    else:
+        number += str(9 - digit)
+    num1 = num1//10
+print(number)
