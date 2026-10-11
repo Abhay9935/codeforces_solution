@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 11 |
+| 42 | 12 |
 
 ---
 
@@ -15,10 +15,11 @@
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (2)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (27)
+- [implementation](#implementation) (28)
 - [math](#math) (9)
 - [sortings](#sortings) (6)
 - [strings](#strings) (10)
@@ -44,6 +45,12 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.txt) |
 
 ### dp
 
@@ -85,6 +92,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/344/A%20-%20Magnets/solution.txt) |
+| 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.txt) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.txt) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.txt) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.txt) |
