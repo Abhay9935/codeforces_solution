@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 12 |
+| 44 | 13 |
 
 ---
 
@@ -20,7 +20,8 @@
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (9)
 - [implementation](#implementation) (29)
-- [math](#math) (9)
+- [math](#math) (10)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (6)
 - [strings](#strings) (11)
 - [two pointers](#two-pointers) (1)
@@ -125,6 +126,13 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.txt) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 
 ### sortings
 
