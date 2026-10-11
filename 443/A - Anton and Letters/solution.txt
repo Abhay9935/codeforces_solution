@@ -1,0 +1,3 @@
+s = input().strip()
+s = s.replace("{", "").replace("}", "").replace(",", "").replace(" ", "")
+print(len(set(s)))
