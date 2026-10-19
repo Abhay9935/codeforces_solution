@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 45 | 13 |
+| 46 | 13 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (30)
+- [implementation](#implementation) (31)
 - [math](#math) (10)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (6)
-- [strings](#strings) (12)
+- [strings](#strings) (13)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -87,6 +87,7 @@
 | 32B | [Borze](https://codeforces.com/contest/32/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/32/B%20-%20Borze/solution.txt) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/69/A%20-%20Young%20Physicist/solution.txt) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/96/A%20-%20Football/solution.txt) |
+| 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.txt) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/133/A%20-%20HQ9%2B/solution.txt) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
@@ -153,6 +154,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/96/A%20-%20Football/solution.txt) |
+| 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.txt) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.txt) |
 | 208A | [Dubstep](https://codeforces.com/contest/208/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/208/A%20-%20Dubstep/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
