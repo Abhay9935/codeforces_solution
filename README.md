@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 46 | 13 |
+| 48 | 13 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (31)
-- [math](#math) (10)
+- [implementation](#implementation) (33)
+- [math](#math) (12)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (6)
 - [strings](#strings) (13)
@@ -90,6 +90,7 @@
 | 131A | [cAPS lOCK](https://codeforces.com/contest/131/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/131/A%20-%20cAPS%20lOCK/solution.txt) |
 | 133A | [HQ9+](https://codeforces.com/contest/133/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/133/A%20-%20HQ9%2B/solution.txt) |
 | 141A | [Amusing Joke](https://codeforces.com/contest/141/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/141/A%20-%20Amusing%20Joke/solution.txt) |
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.txt) |
@@ -103,6 +104,7 @@
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.txt) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.txt) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.txt) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.txt) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1669/A%20-%20Division%3F/solution.txt) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1676/A%20-%20Lucky%3F/solution.txt) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1692/A%20-%20Marathon/solution.txt) |
@@ -122,11 +124,13 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/69/A%20-%20Young%20Physicist/solution.txt) |
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.txt) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/318/A%20-%20Even%20Odds/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.txt) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.txt) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.txt) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
