@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 14 |
+| 51 | 14 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (34)
+- [implementation](#implementation) (35)
 - [math](#math) (13)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (6)
@@ -118,6 +118,7 @@
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1692/A%20-%20Marathon/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
+| 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.txt) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.txt) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.txt) |
