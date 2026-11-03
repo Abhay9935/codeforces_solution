@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 53 | 14 |
+| 54 | 14 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (36)
+- [implementation](#implementation) (37)
 - [math](#math) (14)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (6)
@@ -107,6 +107,7 @@
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.txt) |
 | 466A | [Cheap Travel](https://codeforces.com/contest/466/problem/A) | 1200 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/466/A%20-%20Cheap%20Travel/solution.txt) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.txt) |
+| 510A | [Fox And Snake](https://codeforces.com/contest/510/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/510/A%20-%20Fox%20And%20Snake/solution.txt) |
 | 514A | [Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | 1200 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/514/A%20-%20Chewba%D1%81ca%20and%20Number/solution.txt) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/705/A%20-%20Hulk/solution.txt) |
