@@ -1,0 +1,10 @@
+t = int(input())
+for i in range(t):
+    a, b = map(int, input().split())
+    list = []
+    for j in range(a, b+1):
+        expression = (j - a)+(b - j)
+        list.append(expression)
+        j += 1
+    print(min(list))
+    i += 1
