@@ -1,0 +1,17 @@
+n = int(input())
+feeling_1 = "I hate that "
+feeling_2 = "I love that "
+feeling_3 = "I hate it"
+feeling_4 = "I love it"
+final_feeling = ""
+for i in range(n - 1):
+    if i % 2 == 0:
+        final_feeling += feeling_1
+    else:
+        final_feeling += feeling_2
+ 
+if n % 2 != 0:
+    final_feeling += feeling_3
+else:
+    final_feeling += feeling_4
+print(final_feeling)
