@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 14 |
+| 52 | 14 |
 
 ---
 
@@ -14,14 +14,14 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (9)
 - [implementation](#implementation) (35)
-- [math](#math) (13)
+- [math](#math) (14)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (6)
 - [strings](#strings) (13)
@@ -48,6 +48,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/231/A%20-%20Team/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
+| 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
 
 ### constructive algorithms
 
@@ -144,6 +145,7 @@
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.txt) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
+| 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
 
 ### number theory
 
