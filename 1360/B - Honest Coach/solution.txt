@@ -1,0 +1,11 @@
+t = int(input())
+for i in range(t):
+    n = int(input())
+    strengths = list(map(int, input().split()))
+    strengths.sort()
+    answer = strengths[1] - strengths[0]
+    for j in range(1, n - 1):
+        difference = strengths[j + 1] - strengths[j]
+        if difference < answer:
+            answer = difference
+    print(answer)
