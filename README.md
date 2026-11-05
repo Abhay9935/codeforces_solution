@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 14 |
+| 56 | 14 |
 
 ---
 
@@ -21,8 +21,8 @@
 - [games](#games) (1)
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (37)
-- [math](#math) (14)
-- [number theory](#number-theory) (1)
+- [math](#math) (15)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (7)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (1)
@@ -149,12 +149,14 @@
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.txt) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
+| 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.txt) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
+| 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.txt) |
 
 ### sortings
 
