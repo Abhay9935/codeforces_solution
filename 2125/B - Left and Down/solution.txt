@@ -1,0 +1,14 @@
+def HCF(x, y):
+    while y != 0:
+        x, y = y, x % y
+    return x
+t = int(input())
+for i in range(t):
+    a, b, k = map(int, input().split())
+    hcf = HCF(a, b)
+    dx = a // hcf
+    dy = b // hcf
+    if dx <= k and dy <= k:
+        print("1")
+    else:
+        print("2")
