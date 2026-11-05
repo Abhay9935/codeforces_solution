@@ -1,0 +1,12 @@
+t = int(input())
+for _ in range(t):
+    s = input()
+    arr = sorted(s)
+    if "".join(arr) == s:
+        arr = arr[::-1]
+    r = "".join(arr)
+    if r == s:
+        print("NO")
+    else:
+        print("YES")
+        print(r)
