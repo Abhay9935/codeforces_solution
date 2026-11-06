@@ -1,0 +1,14 @@
+t = int(input())
+for i in range(t):
+    a, b, c, n = list(map(int, input().split()))
+    polycrad_coins = n
+    if a < max(a, b, c):
+        polycrad_coins -= max(a, b, c) - a
+    if b < max(a, b, c):
+        polycrad_coins -= max(a, b, c) - b
+    if c < max(a, b, c):
+        polycrad_coins -= max(a, b, c) - c
+    if polycrad_coins >= 0 and polycrad_coins % 3 == 0:
+        print("YES")
+    else:
+        print("NO")
