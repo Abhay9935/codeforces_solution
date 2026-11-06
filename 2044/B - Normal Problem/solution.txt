@@ -1,0 +1,7 @@
+t = int(input())
+for i in range(t):
+    a = str(input())
+    a = a.replace("p", "temp")
+    a = a.replace("q", "p")
+    a = a.replace("temp", "q")
+    print(a[::-1])
