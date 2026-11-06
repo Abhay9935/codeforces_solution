@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 60 | 15 |
+| 61 | 15 |
 
 ---
 
@@ -21,11 +21,11 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (39)
+- [implementation](#implementation) (40)
 - [math](#math) (16)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (8)
-- [strings](#strings) (15)
+- [strings](#strings) (16)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -139,6 +139,7 @@
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.txt) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/B%20-%20Different%20String/solution.txt) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1985/A%20-%20Creating%20Words/solution.txt) |
+| 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.txt) |
 
 ### math
 
@@ -199,6 +200,7 @@
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/B%20-%20Different%20String/solution.txt) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1985/A%20-%20Creating%20Words/solution.txt) |
+| 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.txt) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2167/B%20-%20Your%20Name/solution.txt) |
 
 ### two pointers
