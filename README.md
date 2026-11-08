@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 63 | 16 |
+| 64 | 16 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
@@ -24,7 +24,7 @@
 - [greedy](#greedy) (10)
 - [implementation](#implementation) (41)
 - [math](#math) (17)
-- [number theory](#number-theory) (2)
+- [number theory](#number-theory) (3)
 - [sortings](#sortings) (8)
 - [strings](#strings) (16)
 - [two pointers](#two-pointers) (1)
@@ -57,6 +57,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
+| 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.txt) |
 
 ### constructive algorithms
 
@@ -178,6 +179,7 @@
 |---|---------|------------|----------|
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.txt) |
+| 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.txt) |
 
 ### sortings
 
