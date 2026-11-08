@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 64 | 16 |
+| 65 | 16 |
 
 ---
 
@@ -20,9 +20,9 @@
 - [dp](#dp) (1)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
-- [geometry](#geometry) (1)
+- [geometry](#geometry) (2)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (41)
+- [implementation](#implementation) (42)
 - [math](#math) (17)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (8)
@@ -89,6 +89,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/B%20-%20Following%20Directions/solution.txt) |
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.txt) |
 
 ### greedy
 
@@ -150,6 +151,7 @@
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/B%20-%20Different%20String/solution.txt) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1985/A%20-%20Creating%20Words/solution.txt) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.txt) |
+| 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.txt) |
 
 ### math
 
