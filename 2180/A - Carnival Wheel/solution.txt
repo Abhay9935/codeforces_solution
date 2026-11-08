@@ -1,0 +1,10 @@
+t = int(input())
+for i in range(t):
+    l, a, b = map(int, input().split())
+    largest_number = a
+    k = a
+    for j in range(l):
+        if k > largest_number:
+            largest_number = k
+        k = (k + b) % l
+    print(largest_number)
