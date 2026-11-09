@@ -1,0 +1,7 @@
+t = int(input())
+for i in range(t):
+    strings = list(map(str, input().split()))
+    answer = ""
+    for i in range(len(strings)):
+        answer += strings[i][0]
+    print(answer)
