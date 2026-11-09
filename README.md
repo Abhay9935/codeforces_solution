@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 65 | 16 |
+| 66 | 16 |
 
 ---
 
@@ -26,7 +26,7 @@
 - [math](#math) (17)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (8)
-- [strings](#strings) (16)
+- [strings](#strings) (17)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -215,6 +215,7 @@
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/B%20-%20Different%20String/solution.txt) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1985/A%20-%20Creating%20Words/solution.txt) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.txt) |
+| 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.txt) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2167/B%20-%20Your%20Name/solution.txt) |
 
 ### two pointers
