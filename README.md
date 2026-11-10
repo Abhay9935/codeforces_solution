@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 17 |
+| 71 | 17 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (12)
 - [implementation](#implementation) (43)
-- [math](#math) (20)
+- [math](#math) (21)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (9)
 - [strings](#strings) (17)
@@ -183,6 +183,7 @@
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.txt) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.txt) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
+| 1542A | [Odd Set](https://codeforces.com/contest/1542/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1542/A%20-%20Odd%20Set/solution.txt) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.txt) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
 | 2075A | [To Zero](https://codeforces.com/contest/2075/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2075/A%20-%20To%20Zero/solution.txt) |
