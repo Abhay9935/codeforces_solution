@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 71 | 17 |
+| 72 | 17 |
 
 ---
 
@@ -22,12 +22,12 @@
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (12)
+- [greedy](#greedy) (13)
 - [implementation](#implementation) (43)
 - [math](#math) (21)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (9)
-- [strings](#strings) (17)
+- [strings](#strings) (18)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -114,6 +114,7 @@
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.txt) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.txt) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.txt) |
+| 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.txt) |
 | 2075A | [To Zero](https://codeforces.com/contest/2075/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2075/A%20-%20To%20Zero/solution.txt) |
 
 ### implementation
@@ -228,6 +229,7 @@
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
+| 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.txt) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/B%20-%20Different%20String/solution.txt) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1985/A%20-%20Creating%20Words/solution.txt) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.txt) |
