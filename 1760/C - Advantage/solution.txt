@@ -1,0 +1,15 @@
+t = int(input())
+for i in range(t):
+    n = int(input())
+    strengths = list(map(int, input().split()))
+    maximum = max(strengths)
+    sort_stregths = strengths.copy()   # .copy use to copy that list or dic.
+    sort_stregths.remove(maximum)
+    second_max = max(sort_stregths)
+    difference = []
+    for i in range(n):
+        if strengths[i] == maximum:
+            difference.append(strengths[i] - second_max)
+        else:
+            difference.append(strengths[i] - maximum)
+    print(*difference)
