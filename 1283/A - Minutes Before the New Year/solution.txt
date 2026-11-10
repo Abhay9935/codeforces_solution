@@ -1,0 +1,5 @@
+t = int(input())
+for i in range(t):
+    hour, minute = map(int, input().split())
+    total_minutes = (23 - hour)*60 + (60 - minute)
+    print(total_minutes)
