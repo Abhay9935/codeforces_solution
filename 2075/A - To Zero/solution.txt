@@ -1,0 +1,20 @@
+t = int(input())
+for i in range(t):
+    n, k = map(int, input().split())
+    count = 1
+    if k % 2 == 0:
+        deduct = k - 1
+    else:
+        deduct = k
+    number = n - deduct
+    if number > 0:
+        if k % 2 == 0:
+            deduct = k
+        else:
+            deduct = k - 1
+ 
+        if deduct == 0:
+            count = -1
+        else:
+            count += (number + deduct - 1) // deduct
+    print(count)
