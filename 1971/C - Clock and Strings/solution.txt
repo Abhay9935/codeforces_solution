@@ -1,0 +1,14 @@
+t = int(input())
+for i in range(t):
+    a, b, c, d = map(int, input().split())
+    if min(a, b) < c < max(a, b):
+        if d < min(a, b) or d > max(a, b):
+            print("YES")
+        else:
+            print("NO")
+    elif c < min(a, b) or c > max(a, b):
+        if min(a, b) < d < max(a, b):
+            print("YES")
+        else:
+            print("NO")
+            
