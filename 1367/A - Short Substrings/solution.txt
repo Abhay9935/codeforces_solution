@@ -1,0 +1,6 @@
+t = int(input())
+ 
+for i in range(t):
+    string = input()
+    ans = string[0] + string[1::2]
+    print(ans)
