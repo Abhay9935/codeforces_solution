@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 76 | 17 |
+| 77 | 17 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (15)
 - [implementation](#implementation) (46)
-- [math](#math) (22)
+- [math](#math) (23)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (9)
 - [strings](#strings) (19)
@@ -197,6 +197,7 @@
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
 | 2075A | [To Zero](https://codeforces.com/contest/2075/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2075/A%20-%20To%20Zero/solution.txt) |
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.txt) |
+| 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2149/A%20-%20Be%20Positive/solution.txt) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.txt) |
 
 ### number theory
