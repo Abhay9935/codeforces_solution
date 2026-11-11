@@ -1,0 +1,14 @@
+t = int(input())
+for i in range(t):
+    a, b, n = map(int, input().split())
+    count = 0
+    while a <= n and b <= n:
+        if a < b:
+            a += b
+        elif b < a:
+            b += a
+        else:
+            a += b
+        count += 1
+ 
+    print(count)
