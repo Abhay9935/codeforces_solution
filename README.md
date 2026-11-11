@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 17 |
+| 78 | 17 |
 
 ---
 
@@ -23,11 +23,11 @@
 - [games](#games) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (15)
-- [implementation](#implementation) (46)
-- [math](#math) (23)
+- [implementation](#implementation) (47)
+- [math](#math) (24)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (9)
-- [strings](#strings) (19)
+- [strings](#strings) (20)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -169,6 +169,7 @@
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/B%20-%20Different%20String/solution.txt) |
 | 1971C | [Clock and Strings](https://codeforces.com/contest/1971/problem/C) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/C%20-%20Clock%20and%20Strings/solution.txt) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1985/A%20-%20Creating%20Words/solution.txt) |
+| 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2000/A%20-%20Primary%20Task/solution.txt) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.txt) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.txt) |
 
@@ -194,6 +195,7 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 1542A | [Odd Set](https://codeforces.com/contest/1542/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1542/A%20-%20Odd%20Set/solution.txt) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.txt) |
+| 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2000/A%20-%20Primary%20Task/solution.txt) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
 | 2075A | [To Zero](https://codeforces.com/contest/2075/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2075/A%20-%20To%20Zero/solution.txt) |
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.txt) |
@@ -242,6 +244,7 @@
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.txt) |
 | 1971B | [Different String](https://codeforces.com/contest/1971/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/B%20-%20Different%20String/solution.txt) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1985/A%20-%20Creating%20Words/solution.txt) |
+| 2000A | [Primary Task](https://codeforces.com/contest/2000/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2000/A%20-%20Primary%20Task/solution.txt) |
 | 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.txt) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.txt) |
 | 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2167/B%20-%20Your%20Name/solution.txt) |
