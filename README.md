@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 79 | 18 |
+| 80 | 18 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (7)
@@ -44,6 +44,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.txt) |
+| 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.txt) |
 
 ### binary search
 
