@@ -1,0 +1,6 @@
+t = int(input())
+for i in range(t):
+    n = int(input())
+    s = str(n)
+    count = (len(s) - 1) * 9 + int(s[0])
+    print(count)
