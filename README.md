@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 80 | 18 |
+| 83 | 18 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (3)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
@@ -24,11 +24,11 @@
 - [games](#games) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (15)
-- [implementation](#implementation) (47)
-- [math](#math) (24)
-- [number theory](#number-theory) (3)
+- [implementation](#implementation) (49)
+- [math](#math) (25)
+- [number theory](#number-theory) (4)
 - [sortings](#sortings) (9)
-- [strings](#strings) (20)
+- [strings](#strings) (21)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -66,6 +66,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1368/A%20-%20C%2B%3D/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
+| 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.txt) |
 | 2009A | [Minimize!](https://codeforces.com/contest/2009/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2009/A%20-%20Minimize!/solution.txt) |
 | 2162A | [Beautiful Average](https://codeforces.com/contest/2162/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2162/A%20-%20Beautiful%20Average/solution.txt) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.txt) |
@@ -155,6 +156,7 @@
 | 707A | [Brain's Photos](https://codeforces.com/contest/707/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/707/A%20-%20Brain's%20Photos/solution.txt) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.txt) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.txt) |
+| 822A | [I'm bored with life](https://codeforces.com/contest/822/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/822/A%20-%20I'm%20bored%20with%20life/solution.txt) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.txt) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.txt) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.txt) |
@@ -165,6 +167,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
 | 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/C%20-%20Advantage/solution.txt) |
+| 1766A | [Extremely Round](https://codeforces.com/contest/1766/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1766/A%20-%20Extremely%20Round/solution.txt) |
 | 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.txt) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
 | 1791B | [Following Directions](https://codeforces.com/contest/1791/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/B%20-%20Following%20Directions/solution.txt) |
@@ -191,6 +194,7 @@
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/318/A%20-%20Even%20Odds/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.txt) |
+| 822A | [I'm bored with life](https://codeforces.com/contest/822/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/822/A%20-%20I'm%20bored%20with%20life/solution.txt) |
 | 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.txt) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.txt) |
 | 1283A | [Minutes Before the New Year](https://codeforces.com/contest/1283/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1283/A%20-%20Minutes%20Before%20the%20New%20Year/solution.txt) |
@@ -214,6 +218,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 822A | [I'm bored with life](https://codeforces.com/contest/822/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/822/A%20-%20I'm%20bored%20with%20life/solution.txt) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.txt) |
 | 2180A | [Carnival Wheel](https://codeforces.com/contest/2180/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2180/A%20-%20Carnival%20Wheel/solution.txt) |
@@ -247,6 +252,7 @@
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/520/A%20-%20Pangram/solution.txt) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.txt) |
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.txt) |
+| 1606A | [AB Balance](https://codeforces.com/contest/1606/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1606/A%20-%20AB%20Balance/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
 | 1791A | [Codeforces Checking](https://codeforces.com/contest/1791/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1791/A%20-%20Codeforces%20Checking/solution.txt) |
 | 1927A | [Make it White](https://codeforces.com/contest/1927/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1927/A%20-%20Make%20it%20White/solution.txt) |
