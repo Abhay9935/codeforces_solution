@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 83 | 18 |
+| 85 | 18 |
 
 ---
 
@@ -24,10 +24,10 @@
 - [games](#games) (1)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (15)
-- [implementation](#implementation) (49)
-- [math](#math) (25)
+- [implementation](#implementation) (50)
+- [math](#math) (26)
 - [number theory](#number-theory) (4)
-- [sortings](#sortings) (9)
+- [sortings](#sortings) (10)
 - [strings](#strings) (21)
 - [two pointers](#two-pointers) (1)
 
@@ -162,6 +162,7 @@
 | 1367A | [Short Substrings](https://codeforces.com/contest/1367/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1367/A%20-%20Short%20Substrings/solution.txt) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1368/A%20-%20C%2B%3D/solution.txt) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1669/A%20-%20Division%3F/solution.txt) |
+| 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1669/B%20-%20Triple/solution.txt) |
 | 1676A | [Lucky?](https://codeforces.com/contest/1676/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1676/A%20-%20Lucky%3F/solution.txt) |
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1692/A%20-%20Marathon/solution.txt) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.txt) |
@@ -213,6 +214,7 @@
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.txt) |
 | 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2149/A%20-%20Be%20Positive/solution.txt) |
 | 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.txt) |
+| 2289A | [Problem from Dolgoderevenskoye](https://codeforces.com/contest/2289/problem/A) | Unrated | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/2289/A%20-%20Problem%20from%20Dolgoderevenskoye/solution.txt) |
 
 ### number theory
 
@@ -232,6 +234,7 @@
 | 160A | [Twins](https://codeforces.com/contest/160/problem/A) | 900 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/160/A%20-%20Twins/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.txt) |
+| 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1669/B%20-%20Triple/solution.txt) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/A%20-%20Medium%20Number/solution.txt) |
 | 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1760/C%20-%20Advantage/solution.txt) |
 | 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [PyPy 3-64](https://github.com/Abhay9935/codeforces_solution/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.txt) |
